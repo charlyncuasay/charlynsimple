@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const ck = require('../controller/cController.js');
+const ck = require('../controller/cController');
 
 router.get('/', ck.char);
 router.get('/about', ck.lyn);

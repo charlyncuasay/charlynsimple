@@ -1,10 +1,10 @@
 {
-  "name": "cuasay",
+  "name": "charlynsimple",
   "version": "1.0.0",
-  "main": "index.ejs",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon app.js"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
